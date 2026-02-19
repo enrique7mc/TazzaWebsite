@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tazza.app/sitemap.xml
+Sitemap: https://tazza.xemc.dev/sitemap.xml
