@@ -1,0 +1,43 @@
+.dot,
+.square {
+  display: inline-block;
+  flex-shrink: 0;
+  pointer-events: none;
+}
+
+.dot {
+  border-radius: 50%;
+}
+
+.square {
+  border-radius: 2px;
+}
+
+/* Colors */
+.amber {
+  background-color: var(--color-accent-1);
+}
+
+.green {
+  background-color: var(--color-accent-2);
+}
+
+.terracotta {
+  background-color: var(--color-accent-3);
+}
+
+/* Sizes */
+.sm {
+  width: 6px;
+  height: 6px;
+}
+
+.md {
+  width: 10px;
+  height: 10px;
+}
+
+.lg {
+  width: 16px;
+  height: 16px;
+}

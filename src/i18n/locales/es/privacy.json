@@ -1,0 +1,46 @@
+{
+  "title": "Política de Privacidad",
+  "lastUpdated": "Última actualización: Febrero 2026",
+  "sections": [
+    {
+      "title": "Resumen",
+      "content": "Tazza está diseñada con la privacidad como prioridad. Creemos que tus datos de salud te pertenecen solo a ti. Esta política explica cómo Tazza maneja tu información — adelanto: se queda en tu dispositivo."
+    },
+    {
+      "title": "Recopilación de Datos",
+      "content": "Tazza no recopila, transmite ni almacena datos personales en servidores externos. Todos los registros de cafeína, configuraciones de metabolismo y preferencias se almacenan localmente en tu dispositivo usando el almacenamiento local de Apple."
+    },
+    {
+      "title": "Integración con HealthKit",
+      "content": "Si eliges habilitar la integración con HealthKit, Tazza puede leer y escribir datos de cafeína en Apple Health. Estos datos son manejados completamente por el framework HealthKit de Apple y nunca salen de tu dispositivo. Puedes revocar los permisos de HealthKit en cualquier momento desde la configuración de tu dispositivo."
+    },
+    {
+      "title": "Sin Cuentas Requeridas",
+      "content": "Tazza no requiere que crees una cuenta, inicies sesión o proporciones información personal para usar la app. No se recopilan correos electrónicos, no se almacenan contraseñas y no se crean perfiles de usuario."
+    },
+    {
+      "title": "Análisis y Rastreo",
+      "content": "Tazza no incluye análisis de terceros, SDKs de publicidad ni frameworks de rastreo. No rastreamos tus patrones de uso, ubicación ni ningún otro dato de comportamiento."
+    },
+    {
+      "title": "Almacenamiento de Datos",
+      "content": "Todos los datos de la app se almacenan localmente en tu iPhone y Apple Watch usando SwiftData. Si eliminas la app, todos los datos se eliminan permanentemente. No hay respaldo en la nube de tus datos de Tazza a menos que uses el respaldo integrado de iCloud de tu dispositivo."
+    },
+    {
+      "title": "Servicios de Terceros",
+      "content": "Tazza no comparte datos con terceros. La app funciona completamente sin conexión y no realiza solicitudes de red."
+    },
+    {
+      "title": "Privacidad de Menores",
+      "content": "Tazza no está dirigida a menores de 13 años. No recopilamos información de niños a sabiendas."
+    },
+    {
+      "title": "Cambios a Esta Política",
+      "content": "Podemos actualizar esta política de privacidad de vez en cuando. Cualquier cambio se reflejará en esta página con una fecha actualizada."
+    },
+    {
+      "title": "Contacto",
+      "content": "Si tienes preguntas sobre esta política de privacidad, contáctanos en hello@xemc.dev."
+    }
+  ]
+}

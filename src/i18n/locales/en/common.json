@@ -1,0 +1,30 @@
+{
+  "nav": {
+    "home": "Home",
+    "faq": "FAQ",
+    "privacy": "Privacy",
+    "contact": "Contact"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  },
+  "seo": {
+    "showcase": {
+      "title": "Tazza - Personalized Caffeine Tracker for iPhone & Apple Watch",
+      "description": "The only caffeine tracker that actually knows you. Personalized metabolism tracking, sleep-safe countdown, and effortless 2-tap logging."
+    },
+    "privacy": {
+      "title": "Privacy Policy - Tazza",
+      "description": "Tazza privacy policy. Your data stays on your device — no cloud uploads, no accounts, no tracking."
+    },
+    "faq": {
+      "title": "FAQ - Tazza",
+      "description": "Frequently asked questions about Tazza, the personalized caffeine tracker for iPhone and Apple Watch."
+    }
+  },
+  "appStore": {
+    "download": "Download on the App Store",
+    "comingSoon": "Coming Soon",
+    "free": "Free"
+  }
+}

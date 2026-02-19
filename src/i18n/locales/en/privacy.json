@@ -1,0 +1,46 @@
+{
+  "title": "Privacy Policy",
+  "lastUpdated": "Last updated: February 2026",
+  "sections": [
+    {
+      "title": "Overview",
+      "content": "Tazza is designed with privacy at its core. We believe your health data belongs to you and only you. This policy explains how Tazza handles your information — spoiler: it stays on your device."
+    },
+    {
+      "title": "Data Collection",
+      "content": "Tazza does not collect, transmit, or store any personal data on external servers. All caffeine logs, metabolism settings, and preferences are stored locally on your device using Apple's on-device storage."
+    },
+    {
+      "title": "HealthKit Integration",
+      "content": "If you choose to enable HealthKit integration, Tazza may read and write caffeine data to Apple Health. This data is handled entirely by Apple's HealthKit framework and never leaves your device. You can revoke HealthKit permissions at any time in your device settings."
+    },
+    {
+      "title": "No Accounts Required",
+      "content": "Tazza does not require you to create an account, sign in, or provide any personal information to use the app. There are no emails collected, no passwords stored, and no user profiles created."
+    },
+    {
+      "title": "Analytics & Tracking",
+      "content": "Tazza does not include any third-party analytics, advertising SDKs, or tracking frameworks. We do not track your usage patterns, location, or any other behavioral data."
+    },
+    {
+      "title": "Data Storage",
+      "content": "All app data is stored locally on your iPhone and Apple Watch using SwiftData. If you delete the app, all data is permanently removed. There is no cloud backup of your Tazza data unless you use your device's built-in iCloud backup."
+    },
+    {
+      "title": "Third-Party Services",
+      "content": "Tazza does not share any data with third parties. The app functions entirely offline and does not make any network requests."
+    },
+    {
+      "title": "Children's Privacy",
+      "content": "Tazza is not directed at children under 13. We do not knowingly collect information from children."
+    },
+    {
+      "title": "Changes to This Policy",
+      "content": "We may update this privacy policy from time to time. Any changes will be reflected on this page with an updated date."
+    },
+    {
+      "title": "Contact",
+      "content": "If you have any questions about this privacy policy, please contact us at hello@xemc.dev."
+    }
+  ]
+}

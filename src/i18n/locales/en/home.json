@@ -1,0 +1,72 @@
+{
+  "hero": {
+    "headline": "Know your caffeine. Own your <1>sleep</1>.",
+    "subtitle": "The only caffeine tracker that learns from your actual metabolism and sleep patterns. Not generic. Yours.",
+    "cta": "Coming Soon"
+  },
+  "features": {
+    "heading": "Everything you need to understand your <1>caffeine</1>",
+    "metabolism": {
+      "label": "Scientific",
+      "title": "Personalized Metabolism",
+      "description": "Your caffeine half-life isn't average. Tazza factors in pregnancy, birth control, smoking, medications, and sensitivity to calculate YOUR unique decay curve."
+    },
+    "sleepCountdown": {
+      "label": "Intelligent",
+      "title": "Sleep-Safe Countdown",
+      "description": "A real-time countdown to when your caffeine drops below the sleep-safe threshold. No more guessing if that afternoon coffee will keep you up."
+    },
+    "quickLog": {
+      "label": "Effortless",
+      "title": "2-Tap Logging",
+      "description": "Log any drink in two taps. Smart predictions learn your habits and surface your usual order at the right time."
+    },
+    "watch": {
+      "label": "On Your Wrist",
+      "title": "Apple Watch",
+      "description": "Complications on your watch face. Quick-log from your wrist. Your caffeine status at a glance, wherever you are."
+    },
+    "widgets": {
+      "label": "Always Visible",
+      "title": "Widgets & Live Activities",
+      "description": "Lock screen widgets, home screen widgets, and Dynamic Island — your caffeine level is always one glance away."
+    }
+  },
+  "howItWorks": {
+    "heading": "Simple as your morning <1>ritual</1>",
+    "step1": {
+      "title": "Log your drink",
+      "description": "Two taps. That's it. Pick from 20+ pre-loaded drinks or add your own."
+    },
+    "step2": {
+      "title": "See your curve",
+      "description": "Watch your personalized caffeine decay curve in real time, color-coded by zone."
+    },
+    "step3": {
+      "title": "Know when you're sleep-ready",
+      "description": "A clear countdown tells you exactly when caffeine drops below your sleep threshold."
+    }
+  },
+  "drinkLibrary": {
+    "heading": "20+ drinks, <1>USDA-accurate</1> data",
+    "description": "From espresso to matcha to energy drinks — every caffeine value sourced from USDA data. Add custom drinks with your own measurements.",
+    "categories": {
+      "coffee": "Coffee",
+      "espresso": "Espresso",
+      "tea": "Tea",
+      "energy": "Energy Drinks",
+      "custom": "Custom Drinks"
+    }
+  },
+  "testimonial": {
+    "quote": "I had no idea my afternoon cold brew was why I couldn't fall asleep. Tazza showed me exactly when to stop — now I sleep like I used to.",
+    "author": "Early beta tester"
+  },
+  "finalCta": {
+    "heading": "Ready to understand your <1>caffeine</1>?",
+    "benefit1": "Personalized to your metabolism",
+    "benefit2": "No subscription needed",
+    "benefit3": "Privacy-first — everything stays on your device",
+    "cta": "Coming Soon"
+  }
+}

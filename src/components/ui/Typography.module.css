@@ -1,0 +1,53 @@
+.heading {
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+}
+
+.serif {
+  font-family: var(--font-serif);
+  font-weight: 400;
+}
+
+.sans {
+  font-family: var(--font-sans);
+}
+
+.text {
+  line-height: 1.6;
+  font-family: var(--font-sans);
+}
+
+.size-sm {
+  font-size: var(--text-sm);
+}
+
+.size-base {
+  font-size: var(--text-base);
+}
+
+.size-lg {
+  font-size: var(--text-lg);
+}
+
+.size-xl {
+  font-size: var(--text-xl);
+}
+
+.muted {
+  color: var(--color-text-muted);
+}
+
+.label {
+  font-family: var(--font-sans);
+  font-size: var(--text-xs);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-accent-1);
+}
+
+.serifItalic {
+  font-family: var(--font-serif);
+  font-style: italic;
+}

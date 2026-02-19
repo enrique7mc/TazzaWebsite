@@ -1,0 +1,48 @@
+.section {
+  padding: clamp(4rem, 8vw, 8rem) var(--content-padding);
+}
+
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  text-align: center;
+}
+
+.content {
+  max-width: 650px;
+  margin: 0 auto var(--space-2xl);
+}
+
+.title {
+  font-size: var(--text-4xl);
+  margin-bottom: var(--space-lg);
+}
+
+.description {
+  max-width: 550px;
+  margin: 0 auto;
+}
+
+.categories {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--space-sm);
+}
+
+.categoryChip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.625rem 1.25rem;
+  background: var(--color-bg-alt);
+  border: 1px solid var(--color-border);
+  border-radius: 100px;
+  font-size: var(--text-sm);
+  font-weight: 500;
+  color: var(--color-text);
+}
+
+.categoryIcon {
+  font-size: 1.125rem;
+}

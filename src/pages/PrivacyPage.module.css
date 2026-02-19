@@ -1,0 +1,33 @@
+.page {
+  padding: clamp(3rem, 6vw, 6rem) var(--content-padding);
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.title {
+  font-size: var(--text-4xl);
+  margin-bottom: var(--space-sm);
+}
+
+.updated {
+  margin-bottom: var(--space-3xl);
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2xl);
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+}
+
+.sectionTitle {
+  font-size: var(--text-xl);
+}

@@ -1,0 +1,30 @@
+.switcher {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  background: var(--color-bg-alt);
+  border-radius: var(--radius-sm);
+  padding: 2px;
+}
+
+.langButton {
+  padding: 0.25rem 0.5rem;
+  border: none;
+  background: transparent;
+  font-family: var(--font-sans);
+  font-size: var(--text-xs);
+  font-weight: 600;
+  color: var(--color-text-muted);
+  cursor: pointer;
+  border-radius: 2px;
+  transition: all var(--transition-fast);
+}
+
+.langButton:hover {
+  color: var(--color-text);
+}
+
+.active {
+  background: var(--color-bg);
+  color: var(--color-text);
+}

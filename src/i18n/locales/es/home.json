@@ -1,0 +1,72 @@
+{
+  "hero": {
+    "headline": "Conoce tu cafeína. Domina tu <1>sueño</1>.",
+    "subtitle": "El único rastreador de cafeína que aprende de tu metabolismo real y tus patrones de sueño. No genérico. Tuyo.",
+    "cta": "Próximamente"
+  },
+  "features": {
+    "heading": "Todo lo que necesitas para entender tu <1>cafeína</1>",
+    "metabolism": {
+      "label": "Científico",
+      "title": "Metabolismo Personalizado",
+      "description": "Tu vida media de cafeína no es promedio. Tazza considera embarazo, anticonceptivos, tabaquismo, medicamentos y sensibilidad para calcular TU curva de degradación única."
+    },
+    "sleepCountdown": {
+      "label": "Inteligente",
+      "title": "Cuenta Regresiva para Dormir",
+      "description": "Una cuenta regresiva en tiempo real hasta que tu cafeína baje del umbral seguro para dormir. No más adivinar si ese café de la tarde te mantendrá despierto."
+    },
+    "quickLog": {
+      "label": "Sin esfuerzo",
+      "title": "Registro en 2 Toques",
+      "description": "Registra cualquier bebida en dos toques. Las predicciones inteligentes aprenden tus hábitos y muestran tu pedido habitual en el momento justo."
+    },
+    "watch": {
+      "label": "En Tu Muñeca",
+      "title": "Apple Watch",
+      "description": "Complicaciones en tu esfera del reloj. Registro rápido desde tu muñeca. Tu estado de cafeína de un vistazo, donde estés."
+    },
+    "widgets": {
+      "label": "Siempre Visible",
+      "title": "Widgets y Live Activities",
+      "description": "Widgets en la pantalla de bloqueo, pantalla de inicio y Dynamic Island — tu nivel de cafeína siempre a un vistazo."
+    }
+  },
+  "howItWorks": {
+    "heading": "Simple como tu <1>ritual</1> matutino",
+    "step1": {
+      "title": "Registra tu bebida",
+      "description": "Dos toques. Eso es todo. Elige entre más de 20 bebidas precargadas o añade la tuya."
+    },
+    "step2": {
+      "title": "Ve tu curva",
+      "description": "Observa tu curva de degradación de cafeína personalizada en tiempo real, codificada por colores por zona."
+    },
+    "step3": {
+      "title": "Sabe cuándo estás listo para dormir",
+      "description": "Una cuenta regresiva clara te dice exactamente cuándo la cafeína baja de tu umbral de sueño."
+    }
+  },
+  "drinkLibrary": {
+    "heading": "Más de 20 bebidas, datos <1>precisos USDA</1>",
+    "description": "Desde espresso hasta matcha y bebidas energéticas — cada valor de cafeína proviene de datos USDA. Añade bebidas personalizadas con tus propias medidas.",
+    "categories": {
+      "coffee": "Café",
+      "espresso": "Espresso",
+      "tea": "Té",
+      "energy": "Energéticas",
+      "custom": "Personalizadas"
+    }
+  },
+  "testimonial": {
+    "quote": "No tenía idea de que mi cold brew de la tarde era la razón por la que no podía dormir. Tazza me mostró exactamente cuándo parar — ahora duermo como antes.",
+    "author": "Beta tester temprano"
+  },
+  "finalCta": {
+    "heading": "¿Listo para entender tu <1>cafeína</1>?",
+    "benefit1": "Personalizado a tu metabolismo",
+    "benefit2": "Sin suscripción necesaria",
+    "benefit3": "Privacidad primero — todo se queda en tu dispositivo",
+    "cta": "Próximamente"
+  }
+}

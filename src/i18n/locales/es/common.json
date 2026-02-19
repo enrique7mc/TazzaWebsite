@@ -1,0 +1,30 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "faq": "Preguntas",
+    "privacy": "Privacidad",
+    "contact": "Contacto"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados."
+  },
+  "seo": {
+    "showcase": {
+      "title": "Tazza - Rastreador de Cafeína Personalizado para iPhone y Apple Watch",
+      "description": "El único rastreador de cafeína que realmente te conoce. Seguimiento personalizado del metabolismo, cuenta regresiva para dormir y registro en 2 toques."
+    },
+    "privacy": {
+      "title": "Política de Privacidad - Tazza",
+      "description": "Política de privacidad de Tazza. Tus datos se quedan en tu dispositivo — sin subidas a la nube, sin cuentas, sin rastreo."
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes - Tazza",
+      "description": "Preguntas frecuentes sobre Tazza, el rastreador de cafeína personalizado para iPhone y Apple Watch."
+    }
+  },
+  "appStore": {
+    "download": "Descargar en la App Store",
+    "comingSoon": "Próximamente",
+    "free": "Gratis"
+  }
+}

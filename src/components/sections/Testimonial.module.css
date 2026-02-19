@@ -1,0 +1,38 @@
+.section {
+  padding: clamp(4rem, 8vw, 8rem) var(--content-padding);
+  background: var(--color-bg-alt);
+}
+
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.quote {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-lg);
+}
+
+.quoteText {
+  font-family: var(--font-serif);
+  font-size: var(--text-2xl);
+  line-height: 1.4;
+  color: var(--color-text);
+  font-style: italic;
+}
+
+.author {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: var(--color-border);
+}
