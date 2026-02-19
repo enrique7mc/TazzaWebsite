@@ -28,7 +28,7 @@ export function DrinkLibrary() {
         >
           <Heading as="h2" serif className={styles.title}>
             <Trans i18nKey="drinkLibrary.heading" ns="home">
-              20+ drinks, <SerifItalic>USDA-accurate</SerifItalic> data
+              100+ drinks, <SerifItalic>USDA-accurate</SerifItalic> data
             </Trans>
           </Heading>
 

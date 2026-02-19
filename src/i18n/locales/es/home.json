@@ -36,7 +36,7 @@
     "heading": "Simple como tu <1>ritual</1> matutino",
     "step1": {
       "title": "Registra tu bebida",
-      "description": "Dos toques. Eso es todo. Elige entre más de 20 bebidas precargadas o añade la tuya."
+      "description": "Dos toques. Eso es todo. Elige entre más de 100 bebidas precargadas o añade la tuya."
     },
     "step2": {
       "title": "Ve tu curva",
@@ -48,7 +48,7 @@
     }
   },
   "drinkLibrary": {
-    "heading": "Más de 20 bebidas, datos <1>precisos USDA</1>",
+    "heading": "Más de 100 bebidas, datos <1>precisos USDA</1>",
     "description": "Desde espresso hasta matcha y bebidas energéticas — cada valor de cafeína proviene de datos USDA. Añade bebidas personalizadas con tus propias medidas.",
     "categories": {
       "coffee": "Café",

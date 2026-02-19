@@ -36,7 +36,7 @@
     "heading": "Simple as your morning <1>ritual</1>",
     "step1": {
       "title": "Log your drink",
-      "description": "Two taps. That's it. Pick from 20+ pre-loaded drinks or add your own."
+      "description": "Two taps. That's it. Pick from 100+ pre-loaded drinks or add your own."
     },
     "step2": {
       "title": "See your curve",
@@ -48,7 +48,7 @@
     }
   },
   "drinkLibrary": {
-    "heading": "20+ drinks, <1>USDA-accurate</1> data",
+    "heading": "100+ drinks, <1>USDA-accurate</1> data",
     "description": "From espresso to matcha to energy drinks — every caffeine value sourced from USDA data. Add custom drinks with your own measurements.",
     "categories": {
       "coffee": "Coffee",

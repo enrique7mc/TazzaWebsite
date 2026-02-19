@@ -3,7 +3,7 @@
   "items": [
     {
       "question": "¿Cómo se calcula mi metabolismo?",
-      "answer": "Tazza usa factores respaldados científicamente como tu sexo biológico, estado de embarazo, uso de anticonceptivos orales, tabaquismo, medicamentos que afectan el hígado y tu sensibilidad a la cafeína autopercibida. Estos factores ajustan tu vida media de cafeína del promedio estándar de 5 horas, dándote una curva de degradación verdaderamente personalizada."
+      "answer": "Tazza usa factores respaldados científicamente como estado de embarazo, uso de anticonceptivos orales, tabaquismo, medicamentos que afectan el hígado y tu sensibilidad a la cafeína autopercibida. Estos factores ajustan tu vida media de cafeína del promedio estándar de 5 horas, dándote una curva de degradación verdaderamente personalizada."
     },
     {
       "question": "¿Cuál es la diferencia entre gratis y premium?",
@@ -23,7 +23,7 @@
     },
     {
       "question": "¿Qué bebidas están incluidas?",
-      "answer": "Tazza viene con más de 20 bebidas precargadas incluyendo varios tipos de café, bebidas de espresso, tés, bebidas energéticas y refrescos — todos con valores de cafeína precisos del USDA. También puedes añadir bebidas personalizadas ilimitadas con tus propias medidas de cafeína."
+      "answer": "Tazza viene con más de 100 bebidas precargadas incluyendo varios tipos de café, bebidas de espresso, tés, bebidas energéticas y refrescos — todos con valores de cafeína precisos del USDA. También puedes añadir bebidas personalizadas ilimitadas con tus propias medidas de cafeína."
     }
   ]
 }

@@ -3,7 +3,7 @@
   "items": [
     {
       "question": "How is my metabolism calculated?",
-      "answer": "Tazza uses scientifically-backed factors including your biological sex, pregnancy status, oral contraceptive use, smoking status, liver-affecting medications, and self-reported caffeine sensitivity. These factors adjust your caffeine half-life from the standard 5-hour average, giving you a truly personalized decay curve."
+      "answer": "Tazza uses scientifically-backed factors including pregnancy status, oral contraceptive use, smoking status, liver-affecting medications, and self-reported caffeine sensitivity. These factors adjust your caffeine half-life from the standard 5-hour average, giving you a truly personalized decay curve."
     },
     {
       "question": "What's the difference between free and premium?",
@@ -23,7 +23,7 @@
     },
     {
       "question": "What drinks are included?",
-      "answer": "Tazza comes with 20+ pre-loaded drinks including various coffee types, espresso drinks, teas, energy drinks, and sodas — all with USDA-accurate caffeine values. You can also add unlimited custom drinks with your own caffeine measurements."
+      "answer": "Tazza comes with 100+ pre-loaded drinks including various coffee types, espresso drinks, teas, energy drinks, and sodas — all with USDA-accurate caffeine values. You can also add unlimited custom drinks with your own caffeine measurements."
     }
   ]
 }
