@@ -25,17 +25,10 @@
 }
 
 .logoIcon {
-  display: flex;
-  align-items: center;
-  justify-content: center;
   width: 32px;
   height: 32px;
-  background: var(--color-accent-1);
-  color: var(--color-bg);
   border-radius: 8px;
-  font-family: var(--font-serif);
-  font-size: 1.125rem;
-  font-weight: 700;
+  object-fit: cover;
 }
 
 .logoText {

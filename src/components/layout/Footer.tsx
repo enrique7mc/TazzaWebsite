@@ -11,7 +11,7 @@ export function Footer() {
     <footer className={styles.footer}>
       <div className={styles.container}>
         <div className={styles.brand}>
-          <span className={styles.logoIcon}>T</span>
+          <img src="/logo.jpeg" alt="Tazza" className={styles.logoIcon} />
           <span className={styles.logoText}>Tazza</span>
         </div>
 
