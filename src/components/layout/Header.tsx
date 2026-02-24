@@ -22,7 +22,7 @@ export function Header() {
     <header className={styles.header}>
       <div className={styles.container}>
         <Link to={`${prefix}/`} className={styles.logo}>
-          <span className={styles.logoIcon}>T</span>
+          <img src="/logo.jpeg" alt="Tazza" className={styles.logoIcon} />
           <span className={styles.logoText}>Tazza</span>
         </Link>
 
