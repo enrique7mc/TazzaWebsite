@@ -7,15 +7,15 @@
     },
     {
       "question": "What's the difference between free and premium?",
-      "answer": "The free version includes full caffeine tracking, the drink library, and basic metabolism personalization. Premium unlocks the sleep-safe countdown, advanced analytics and insights, Apple Watch complications, widgets, and Live Activities."
+      "answer": "The free version is generous — it includes real-time caffeine tracking, personalized metabolism, the sleep-safe countdown, the full drink library with custom drinks, Apple Watch app with complications, widgets, Live Activities, iCloud sync, and smart notifications. Premium ($6.99 one-time, no subscription) unlocks full analytics with trends, streaks, and heatmaps, sleep correlation insights via HealthKit, Shortcuts & Siri support, and CSV data export."
     },
     {
       "question": "Does it work with Apple Watch?",
-      "answer": "Yes! Tazza has a dedicated Apple Watch app with complications for your watch face and quick-log functionality right from your wrist. Premium required for Watch features."
+      "answer": "Yes! Tazza has a dedicated Apple Watch app with complications for your watch face and quick-log functionality right from your wrist — all included for free."
     },
     {
       "question": "How does sleep integration work?",
-      "answer": "Tazza calculates when your caffeine level drops below the sleep-safe threshold based on your personalized metabolism. It gives you a clear countdown timer so you know exactly when you're ready for restful sleep."
+      "answer": "Tazza calculates when your caffeine level drops below the sleep-safe threshold based on your personalized metabolism. It gives you a clear countdown timer so you know exactly when you're ready for restful sleep. The sleep-safe countdown is free. Premium adds deeper sleep correlation insights that analyze how your caffeine intake affects your actual sleep quality via HealthKit."
     },
     {
       "question": "Is my data private?",

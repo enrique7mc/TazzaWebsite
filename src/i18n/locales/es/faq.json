@@ -7,15 +7,15 @@
     },
     {
       "question": "¿Cuál es la diferencia entre gratis y premium?",
-      "answer": "La versión gratuita incluye seguimiento completo de cafeína, la biblioteca de bebidas y personalización básica del metabolismo. Premium desbloquea la cuenta regresiva para dormir, análisis e información avanzados, complicaciones de Apple Watch, widgets y Live Activities."
+      "answer": "La versión gratuita es generosa — incluye seguimiento de cafeína en tiempo real, metabolismo personalizado, cuenta regresiva para dormir, la biblioteca completa de bebidas con bebidas personalizadas, app de Apple Watch con complicaciones, widgets, Live Activities, sincronización con iCloud y notificaciones inteligentes. Premium ($6.99 pago único, sin suscripción) desbloquea análisis completos con tendencias, rachas y mapas de calor, información de correlación del sueño vía HealthKit, soporte de Atajos y Siri, y exportación de datos CSV."
     },
     {
       "question": "¿Funciona con Apple Watch?",
-      "answer": "¡Sí! Tazza tiene una app dedicada para Apple Watch con complicaciones para tu esfera del reloj y funcionalidad de registro rápido desde tu muñeca. Se requiere Premium para las funciones del Watch."
+      "answer": "¡Sí! Tazza tiene una app dedicada para Apple Watch con complicaciones para tu esfera del reloj y funcionalidad de registro rápido desde tu muñeca — todo incluido gratis."
     },
     {
       "question": "¿Cómo funciona la integración con el sueño?",
-      "answer": "Tazza calcula cuándo tu nivel de cafeína baja del umbral seguro para dormir basándose en tu metabolismo personalizado. Te da un temporizador de cuenta regresiva claro para que sepas exactamente cuándo estás listo para un sueño reparador."
+      "answer": "Tazza calcula cuándo tu nivel de cafeína baja del umbral seguro para dormir basándose en tu metabolismo personalizado. Te da un temporizador de cuenta regresiva claro para que sepas exactamente cuándo estás listo para un sueño reparador. La cuenta regresiva para dormir es gratuita. Premium añade información más profunda de correlación del sueño que analiza cómo tu consumo de cafeína afecta la calidad real de tu sueño vía HealthKit."
     },
     {
       "question": "¿Mis datos son privados?",
