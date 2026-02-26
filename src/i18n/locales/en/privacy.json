@@ -12,7 +12,7 @@
     },
     {
       "title": "HealthKit Integration",
-      "content": "If you choose to enable HealthKit integration, Tazza may read and write caffeine data to Apple Health. This data is handled entirely by Apple's HealthKit framework and never leaves your device. You can revoke HealthKit permissions at any time in your device settings."
+      "content": "If you choose to enable HealthKit integration, Tazza writes your caffeine intake to Apple Health and reads your sleep data to provide sleep correlation insights. All HealthKit data is handled entirely by Apple's HealthKit framework and never leaves your device. Tazza never accesses HealthKit data beyond caffeine and sleep. You can revoke HealthKit permissions at any time in your device settings."
     },
     {
       "title": "No Accounts Required",
@@ -27,8 +27,20 @@
       "content": "All app data is stored locally on your iPhone and Apple Watch using SwiftData. If you delete the app, all data is permanently removed. There is no cloud backup of your Tazza data unless you use your device's built-in iCloud backup."
     },
     {
+      "title": "In-App Purchases",
+      "content": "Tazza offers an optional one-time premium upgrade processed entirely through Apple's App Store. We do not collect or have access to your payment information. All purchase and transaction data is managed by Apple. Your purchase status is verified on-device using StoreKit and cached locally."
+    },
+    {
+      "title": "Siri & Shortcuts",
+      "content": "Tazza supports Siri voice commands and Shortcuts for hands-free drink logging and caffeine checks. Voice interactions are processed by Apple's Siri servers according to Apple's privacy policy. Tazza does not store or transmit any voice data — it only receives the structured intent result from the system."
+    },
+    {
+      "title": "Apple Watch & Device Sync",
+      "content": "Tazza syncs caffeine logs and preferences between your iPhone and Apple Watch using Apple's WatchConnectivity framework. This communication happens directly between your paired devices and does not pass through any external servers."
+    },
+    {
       "title": "Third-Party Services",
-      "content": "Tazza does not share any data with third parties. The app functions entirely offline and does not make any network requests."
+      "content": "Tazza does not share any data with third parties. The only network communication is with Apple's services for in-app purchases and Siri processing, both governed by Apple's privacy policy. No data is sent to any other external server."
     },
     {
       "title": "Children's Privacy",

@@ -12,7 +12,7 @@
     },
     {
       "title": "Integración con HealthKit",
-      "content": "Si eliges habilitar la integración con HealthKit, Tazza puede leer y escribir datos de cafeína en Apple Health. Estos datos son manejados completamente por el framework HealthKit de Apple y nunca salen de tu dispositivo. Puedes revocar los permisos de HealthKit en cualquier momento desde la configuración de tu dispositivo."
+      "content": "Si eliges habilitar la integración con HealthKit, Tazza escribe tu consumo de cafeína en Apple Health y lee tus datos de sueño para ofrecer información sobre la correlación entre cafeína y sueño. Todos los datos de HealthKit son manejados completamente por el framework HealthKit de Apple y nunca salen de tu dispositivo. Tazza nunca accede a datos de HealthKit más allá de cafeína y sueño. Puedes revocar los permisos de HealthKit en cualquier momento desde la configuración de tu dispositivo."
     },
     {
       "title": "Sin Cuentas Requeridas",
@@ -27,8 +27,20 @@
       "content": "Todos los datos de la app se almacenan localmente en tu iPhone y Apple Watch usando SwiftData. Si eliminas la app, todos los datos se eliminan permanentemente. No hay respaldo en la nube de tus datos de Tazza a menos que uses el respaldo integrado de iCloud de tu dispositivo."
     },
     {
+      "title": "Compras Dentro de la App",
+      "content": "Tazza ofrece una mejora premium opcional de pago único procesada completamente a través de la App Store de Apple. No recopilamos ni tenemos acceso a tu información de pago. Todos los datos de compra y transacción son gestionados por Apple. El estado de tu compra se verifica en el dispositivo usando StoreKit y se almacena localmente."
+    },
+    {
+      "title": "Siri y Atajos",
+      "content": "Tazza soporta comandos de voz de Siri y Atajos para registrar bebidas y consultar cafeína sin usar las manos. Las interacciones de voz son procesadas por los servidores de Siri de Apple según la política de privacidad de Apple. Tazza no almacena ni transmite datos de voz — solo recibe el resultado estructurado del intent del sistema."
+    },
+    {
+      "title": "Apple Watch y Sincronización",
+      "content": "Tazza sincroniza registros de cafeína y preferencias entre tu iPhone y Apple Watch usando el framework WatchConnectivity de Apple. Esta comunicación ocurre directamente entre tus dispositivos emparejados y no pasa por ningún servidor externo."
+    },
+    {
       "title": "Servicios de Terceros",
-      "content": "Tazza no comparte datos con terceros. La app funciona completamente sin conexión y no realiza solicitudes de red."
+      "content": "Tazza no comparte datos con terceros. La única comunicación de red es con los servicios de Apple para compras dentro de la app y procesamiento de Siri, ambos regidos por la política de privacidad de Apple. No se envían datos a ningún otro servidor externo."
     },
     {
       "title": "Privacidad de Menores",
