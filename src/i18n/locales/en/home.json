@@ -29,7 +29,7 @@
     "widgets": {
       "label": "Always Visible",
       "title": "Widgets & Live Activities",
-      "description": "Lock screen, home screen, and Dynamic Island. Your caffeine level without unlocking your phone."
+      "description": "Lock screen widgets, home screen widgets, and Dynamic Island. Your caffeine level without unlocking your phone."
     }
   },
   "howItWorks": {
@@ -44,7 +44,7 @@
     },
     "step3": {
       "title": "Know when you're sleep-ready",
-      "description": "A clear countdown tells you when caffeine drops below your sleep threshold."
+      "description": "A clear countdown tells you exactly when caffeine drops below your sleep threshold."
     }
   },
   "drinkLibrary": {
@@ -66,7 +66,7 @@
     "heading": "Stop guessing about your <1>caffeine</1>",
     "benefit1": "Personalized to your metabolism",
     "benefit2": "No subscription needed",
-    "benefit3": "Your data stays on your device",
+    "benefit3": "Privacy first. Your data stays on your device",
     "cta": "Coming Soon"
   }
 }

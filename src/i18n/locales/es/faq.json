@@ -11,7 +11,7 @@
     },
     {
       "question": "¿Funciona con Apple Watch?",
-      "answer": "Sí. Tazza tiene una app dedicada para Apple Watch con complicaciones para tu esfera del reloj y registro rápido desde tu muñeca. Se requiere Premium para las funciones del Watch."
+      "answer": "Sí. Tazza tiene una app dedicada para Apple Watch con complicaciones para la carátula del reloj y registro rápido desde tu muñeca. Se requiere Premium para las funciones del Watch."
     },
     {
       "question": "¿Cómo funciona la integración con el sueño?",
@@ -19,7 +19,7 @@
     },
     {
       "question": "¿Mis datos son privados?",
-      "answer": "Todos tus datos se procesan y almacenan en tu dispositivo. Sin subidas a la nube, sin cuentas de usuario, sin rastreo de análisis. Si usas la integración con HealthKit, esos datos también se quedan locales según los requisitos de Apple."
+      "answer": "Todos tus datos se procesan y almacenan en tu dispositivo. Sin subir datos a la nube, sin cuentas de usuario, sin rastreo de análisis. Si usas la integración con HealthKit, esos datos también se quedan locales según los requisitos de Apple."
     },
     {
       "question": "¿Qué bebidas están incluidas?",

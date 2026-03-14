@@ -1,7 +1,7 @@
 {
   "hero": {
     "headline": "Conoce tu cafeína. Domina tu <1>sueño</1>.",
-    "subtitle": "Un rastreador de cafeína que realmente aprende tu metabolismo y tus patrones de sueño. No una gráfica genérica. Tuyo.",
+    "subtitle": "Un monitor de cafeína que realmente aprende tu metabolismo y tus patrones de sueño. No una gráfica genérica. Tuyo.",
     "cta": "Próximamente"
   },
   "features": {
@@ -24,12 +24,12 @@
     "watch": {
       "label": "En Tu Muñeca",
       "title": "Apple Watch",
-      "description": "Complicaciones en tu esfera del reloj. Registro rápido desde tu muñeca. Tu estado de cafeína de un vistazo."
+      "description": "Complicaciones en tu carátula del reloj. Registro rápido desde tu muñeca. Tu estado de cafeína de un vistazo."
     },
     "widgets": {
       "label": "Siempre Visible",
       "title": "Widgets y Live Activities",
-      "description": "Pantalla de bloqueo, pantalla de inicio y Dynamic Island. Tu nivel de cafeína sin desbloquear el teléfono."
+      "description": "Widgets en la pantalla de bloqueo, pantalla de inicio y Dynamic Island. Tu nivel de cafeína sin desbloquear el teléfono."
     }
   },
   "howItWorks": {
