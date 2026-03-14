@@ -41,7 +41,7 @@ export function Hero() {
           transition={{ duration: 0.6, delay: 0.2 }}
         >
           <MockupFrame device="iphone">
-            <img src="/hero-screenshot.png" alt="Tazza app showing caffeine decay curve, sleep-ready status, and today's drink log" />
+            <img src="/hero-image.png" alt="Tazza app showing caffeine decay curve, sleep-ready status, and today's drink log" />
           </MockupFrame>
 
           <AccentDot color="amber" size="lg" className={styles.accent1} />
