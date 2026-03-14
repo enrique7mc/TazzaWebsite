@@ -3,27 +3,27 @@
   "items": [
     {
       "question": "How is my metabolism calculated?",
-      "answer": "Tazza uses scientifically-backed factors including pregnancy status, oral contraceptive use, smoking status, liver-affecting medications, and self-reported caffeine sensitivity. These factors adjust your caffeine half-life from the standard 5-hour average, giving you a truly personalized decay curve."
+      "answer": "Tazza uses factors like pregnancy status, oral contraceptive use, smoking, liver-affecting medications, and self-reported caffeine sensitivity. These adjust your caffeine half-life from the standard 5-hour average, so your decay curve is actually yours."
     },
     {
       "question": "What's the difference between free and premium?",
-      "answer": "The free version includes full caffeine tracking, the drink library, and basic metabolism personalization. Premium unlocks the sleep-safe countdown, advanced analytics and insights, Apple Watch complications, widgets, and Live Activities."
+      "answer": "The free version includes full caffeine tracking, the drink library, and basic metabolism personalization. Premium unlocks the sleep-safe countdown, advanced analytics, Apple Watch complications, widgets, and Live Activities."
     },
     {
       "question": "Does it work with Apple Watch?",
-      "answer": "Yes! Tazza has a dedicated Apple Watch app with complications for your watch face and quick-log functionality right from your wrist. Premium required for Watch features."
+      "answer": "Yes. Tazza has a dedicated Apple Watch app with complications for your watch face and quick-log from your wrist. Premium required for Watch features."
     },
     {
       "question": "How does sleep integration work?",
-      "answer": "Tazza calculates when your caffeine level drops below the sleep-safe threshold based on your personalized metabolism. It gives you a clear countdown timer so you know exactly when you're ready for restful sleep."
+      "answer": "Tazza calculates when your caffeine level drops below the sleep-safe threshold based on your personalized metabolism. You get a countdown timer so you know when you're good to sleep."
     },
     {
       "question": "Is my data private?",
-      "answer": "Absolutely. All your data is processed and stored entirely on your device. There are no cloud uploads, no user accounts, and no analytics tracking. If you use HealthKit integration, that data also stays local on your device per Apple's requirements."
+      "answer": "All your data is processed and stored on your device. No cloud uploads, no user accounts, no analytics tracking. If you use HealthKit integration, that data also stays local per Apple's requirements."
     },
     {
       "question": "What drinks are included?",
-      "answer": "Tazza comes with 100+ pre-loaded drinks including various coffee types, espresso drinks, teas, energy drinks, and sodas — all with USDA-accurate caffeine values. You can also add unlimited custom drinks with your own caffeine measurements."
+      "answer": "Tazza comes with 100+ pre-loaded drinks including coffee, espresso, teas, energy drinks, and sodas, all with USDA-accurate caffeine values. You can also add your own custom drinks."
     }
   ]
 }

@@ -4,7 +4,7 @@
   "sections": [
     {
       "title": "Overview",
-      "content": "Tazza is designed with privacy at its core. We believe your health data belongs to you and only you. This policy explains how Tazza handles your information — spoiler: it stays on your device."
+      "content": "Tazza is built with privacy as a priority. Your health data belongs to you. This policy explains how Tazza handles your information. Short version: it stays on your device."
     },
     {
       "title": "Data Collection",
@@ -12,11 +12,11 @@
     },
     {
       "title": "HealthKit Integration",
-      "content": "If you choose to enable HealthKit integration, Tazza writes your caffeine intake to Apple Health and reads your sleep data to provide sleep correlation insights. All HealthKit data is handled entirely by Apple's HealthKit framework and never leaves your device. Tazza never accesses HealthKit data beyond caffeine and sleep. You can revoke HealthKit permissions at any time in your device settings."
+      "content": "If you enable HealthKit integration, Tazza writes your caffeine intake to Apple Health and reads your sleep data to provide sleep correlation insights. All HealthKit data is handled by Apple's HealthKit framework and never leaves your device. Tazza only accesses caffeine and sleep data. You can revoke HealthKit permissions at any time in your device settings."
     },
     {
       "title": "No Accounts Required",
-      "content": "Tazza does not require you to create an account, sign in, or provide any personal information to use the app. There are no emails collected, no passwords stored, and no user profiles created."
+      "content": "Tazza does not require you to create an account, sign in, or provide any personal information to use the app. No emails collected, no passwords stored, no user profiles created."
     },
     {
       "title": "Analytics & Tracking",
@@ -28,11 +28,11 @@
     },
     {
       "title": "In-App Purchases",
-      "content": "Tazza offers an optional one-time premium upgrade processed entirely through Apple's App Store. We do not collect or have access to your payment information. All purchase and transaction data is managed by Apple. Your purchase status is verified on-device using StoreKit and cached locally."
+      "content": "Tazza offers an optional one-time premium upgrade processed through Apple's App Store. We do not collect or have access to your payment information. All purchase and transaction data is managed by Apple. Your purchase status is verified on-device using StoreKit and cached locally."
     },
     {
       "title": "Siri & Shortcuts",
-      "content": "Tazza supports Siri voice commands and Shortcuts for hands-free drink logging and caffeine checks. Voice interactions are processed by Apple's Siri servers according to Apple's privacy policy. Tazza does not store or transmit any voice data — it only receives the structured intent result from the system."
+      "content": "Tazza supports Siri voice commands and Shortcuts for hands-free drink logging and caffeine checks. Voice interactions are processed by Apple's Siri servers according to Apple's privacy policy. Tazza does not store or transmit any voice data. It only receives the structured intent result from the system."
     },
     {
       "title": "Apple Watch & Device Sync",
