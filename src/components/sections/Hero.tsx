@@ -41,17 +41,7 @@ export function Hero() {
           transition={{ duration: 0.6, delay: 0.2 }}
         >
           <MockupFrame device="iphone">
-            <div className={styles.mockupPlaceholder}>
-              <div className={styles.curvePreview}>
-                <div className={styles.curveBar} style={{ height: '90%', background: 'var(--color-accent-3)' }} />
-                <div className={styles.curveBar} style={{ height: '75%', background: 'var(--color-accent-1)' }} />
-                <div className={styles.curveBar} style={{ height: '55%', background: 'var(--color-accent-1)' }} />
-                <div className={styles.curveBar} style={{ height: '35%', background: 'var(--color-accent-2)' }} />
-                <div className={styles.curveBar} style={{ height: '20%', background: 'var(--color-accent-2)' }} />
-                <div className={styles.curveBar} style={{ height: '10%', background: 'var(--color-accent-2)' }} />
-              </div>
-              <span className={styles.mockupLabel}>Caffeine Curve</span>
-            </div>
+            <img src="/hero-screenshot.png" alt="Tazza app showing caffeine decay curve, sleep-ready status, and today's drink log" />
           </MockupFrame>
 
           <AccentDot color="amber" size="lg" className={styles.accent1} />
