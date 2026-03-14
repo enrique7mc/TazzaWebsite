@@ -1,20 +1,20 @@
 {
   "hero": {
     "headline": "Know your caffeine. Own your <1>sleep</1>.",
-    "subtitle": "The only caffeine tracker that learns from your actual metabolism and sleep patterns. Not generic. Yours.",
+    "subtitle": "A caffeine tracker that actually learns your metabolism and sleep patterns. Not some generic chart. Yours.",
     "cta": "Coming Soon"
   },
   "features": {
-    "heading": "Everything you need to understand your <1>caffeine</1>",
+    "heading": "What's actually going on with your <1>caffeine</1>",
     "metabolism": {
       "label": "Scientific",
       "title": "Personalized Metabolism",
-      "description": "Your caffeine half-life isn't average. Tazza factors in pregnancy, birth control, smoking, medications, and sensitivity to calculate YOUR unique decay curve."
+      "description": "Your caffeine half-life isn't average. Tazza factors in pregnancy, birth control, smoking, medications, and sensitivity to build your actual decay curve."
     },
     "sleepCountdown": {
       "label": "Intelligent",
       "title": "Sleep-Safe Countdown",
-      "description": "A real-time countdown to when your caffeine drops below the sleep-safe threshold. No more guessing if that afternoon coffee will keep you up."
+      "description": "A real-time countdown to when your caffeine drops below the sleep-safe threshold. No more wondering if that afternoon coffee will keep you up."
     },
     "quickLog": {
       "label": "Effortless",
@@ -24,12 +24,12 @@
     "watch": {
       "label": "On Your Wrist",
       "title": "Apple Watch",
-      "description": "Complications on your watch face. Quick-log from your wrist. Your caffeine status at a glance, wherever you are."
+      "description": "Complications on your watch face. Quick-log from your wrist. Caffeine status at a glance."
     },
     "widgets": {
       "label": "Always Visible",
       "title": "Widgets & Live Activities",
-      "description": "Lock screen widgets, home screen widgets, and Dynamic Island — your caffeine level is always one glance away."
+      "description": "Lock screen, home screen, and Dynamic Island. Your caffeine level without unlocking your phone."
     }
   },
   "howItWorks": {
@@ -44,12 +44,12 @@
     },
     "step3": {
       "title": "Know when you're sleep-ready",
-      "description": "A clear countdown tells you exactly when caffeine drops below your sleep threshold."
+      "description": "A clear countdown tells you when caffeine drops below your sleep threshold."
     }
   },
   "drinkLibrary": {
     "heading": "100+ drinks, <1>USDA-accurate</1> data",
-    "description": "From espresso to matcha to energy drinks — every caffeine value sourced from USDA data. Add custom drinks with your own measurements.",
+    "description": "Espresso, matcha, energy drinks, and more. Every caffeine value comes from USDA data. You can add your own drinks too.",
     "categories": {
       "coffee": "Coffee",
       "espresso": "Espresso",
@@ -59,14 +59,14 @@
     }
   },
   "testimonial": {
-    "quote": "I had no idea my afternoon cold brew was why I couldn't fall asleep. Tazza showed me exactly when to stop — now I sleep like I used to.",
+    "quote": "I had no idea my afternoon cold brew was why I couldn't fall asleep. Tazza showed me exactly when to stop, and now I sleep like I used to.",
     "author": "Early beta tester"
   },
   "finalCta": {
-    "heading": "Ready to understand your <1>caffeine</1>?",
+    "heading": "Stop guessing about your <1>caffeine</1>",
     "benefit1": "Personalized to your metabolism",
     "benefit2": "No subscription needed",
-    "benefit3": "Privacy-first — everything stays on your device",
+    "benefit3": "Your data stays on your device",
     "cta": "Coming Soon"
   }
 }

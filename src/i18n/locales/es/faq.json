@@ -3,27 +3,27 @@
   "items": [
     {
       "question": "¿Cómo se calcula mi metabolismo?",
-      "answer": "Tazza usa factores respaldados científicamente como estado de embarazo, uso de anticonceptivos orales, tabaquismo, medicamentos que afectan el hígado y tu sensibilidad a la cafeína autopercibida. Estos factores ajustan tu vida media de cafeína del promedio estándar de 5 horas, dándote una curva de degradación verdaderamente personalizada."
+      "answer": "Tazza usa factores como estado de embarazo, uso de anticonceptivos orales, tabaquismo, medicamentos que afectan el hígado y tu sensibilidad a la cafeína autopercibida. Estos ajustan tu vida media de cafeína del promedio estándar de 5 horas, para que tu curva de degradación sea realmente tuya."
     },
     {
       "question": "¿Cuál es la diferencia entre gratis y premium?",
-      "answer": "La versión gratuita incluye seguimiento completo de cafeína, la biblioteca de bebidas y personalización básica del metabolismo. Premium desbloquea la cuenta regresiva para dormir, análisis e información avanzados, complicaciones de Apple Watch, widgets y Live Activities."
+      "answer": "La versión gratuita incluye seguimiento completo de cafeína, la biblioteca de bebidas y personalización básica del metabolismo. Premium desbloquea la cuenta regresiva para dormir, análisis avanzados, complicaciones de Apple Watch, widgets y Live Activities."
     },
     {
       "question": "¿Funciona con Apple Watch?",
-      "answer": "¡Sí! Tazza tiene una app dedicada para Apple Watch con complicaciones para tu esfera del reloj y funcionalidad de registro rápido desde tu muñeca. Se requiere Premium para las funciones del Watch."
+      "answer": "Sí. Tazza tiene una app dedicada para Apple Watch con complicaciones para tu esfera del reloj y registro rápido desde tu muñeca. Se requiere Premium para las funciones del Watch."
     },
     {
       "question": "¿Cómo funciona la integración con el sueño?",
-      "answer": "Tazza calcula cuándo tu nivel de cafeína baja del umbral seguro para dormir basándose en tu metabolismo personalizado. Te da un temporizador de cuenta regresiva claro para que sepas exactamente cuándo estás listo para un sueño reparador."
+      "answer": "Tazza calcula cuándo tu nivel de cafeína baja del umbral seguro para dormir basándose en tu metabolismo personalizado. Recibes un temporizador de cuenta regresiva para saber cuándo puedes dormir bien."
     },
     {
       "question": "¿Mis datos son privados?",
-      "answer": "Absolutamente. Todos tus datos se procesan y almacenan completamente en tu dispositivo. No hay subidas a la nube, no hay cuentas de usuario y no hay rastreo de análisis. Si usas la integración con HealthKit, esos datos también se quedan locales en tu dispositivo según los requisitos de Apple."
+      "answer": "Todos tus datos se procesan y almacenan en tu dispositivo. Sin subidas a la nube, sin cuentas de usuario, sin rastreo de análisis. Si usas la integración con HealthKit, esos datos también se quedan locales según los requisitos de Apple."
     },
     {
       "question": "¿Qué bebidas están incluidas?",
-      "answer": "Tazza viene con más de 100 bebidas precargadas incluyendo varios tipos de café, bebidas de espresso, tés, bebidas energéticas y refrescos — todos con valores de cafeína precisos del USDA. También puedes añadir bebidas personalizadas ilimitadas con tus propias medidas de cafeína."
+      "answer": "Tazza viene con más de 100 bebidas precargadas incluyendo café, espresso, tés, bebidas energéticas y refrescos, todos con valores de cafeína precisos del USDA. También puedes añadir tus propias bebidas personalizadas."
     }
   ]
 }
