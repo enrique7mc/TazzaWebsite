@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { Trans, useTranslation } from 'react-i18next';
-import { Heading, Text, SerifItalic, Button } from '../ui';
+import { Heading, Text, SerifItalic, LinkButton } from '../ui';
 import { AccentDot } from '../ui';
 import styles from './FinalCTA.module.css';
 
@@ -38,9 +38,9 @@ export function FinalCTA() {
             </li>
           </ul>
 
-          <Button size="lg" disabled>
+          <LinkButton size="lg" href={t('finalCta.ctaUrl')} external>
             {t('finalCta.cta')}
-          </Button>
+          </LinkButton>
         </motion.div>
       </div>
     </section>

@@ -2,7 +2,8 @@
   "hero": {
     "headline": "Conoce tu cafeína. Domina tu <1>sueño</1>.",
     "subtitle": "Un monitor de cafeína que realmente aprende tu metabolismo y tus patrones de sueño. No una gráfica genérica. Tuyo.",
-    "cta": "Próximamente"
+    "cta": "Descargar en la App Store",
+    "ctaUrl": "https://apps.apple.com/mx/app/tazza-caffeine-tracker/id6759761408"
   },
   "features": {
     "heading": "Qué pasa realmente con tu <1>cafeína</1>",
@@ -67,6 +68,7 @@
     "benefit1": "Personalizado a tu metabolismo",
     "benefit2": "Sin suscripción necesaria",
     "benefit3": "Tus datos se quedan en tu dispositivo",
-    "cta": "Próximamente"
+    "cta": "Descargar en la App Store",
+    "ctaUrl": "https://apps.apple.com/mx/app/tazza-caffeine-tracker/id6759761408"
   }
 }

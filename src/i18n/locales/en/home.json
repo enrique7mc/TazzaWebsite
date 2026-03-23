@@ -2,7 +2,8 @@
   "hero": {
     "headline": "Know your caffeine. Own your <1>sleep</1>.",
     "subtitle": "A caffeine tracker that actually learns your metabolism and sleep patterns. Not some generic chart. Yours.",
-    "cta": "Coming Soon"
+    "cta": "Download on the App Store",
+    "ctaUrl": "https://apps.apple.com/us/app/tazza-caffeine-tracker/id6759761408"
   },
   "features": {
     "heading": "What's actually going on with your <1>caffeine</1>",
@@ -67,6 +68,7 @@
     "benefit1": "Personalized to your metabolism",
     "benefit2": "No subscription needed",
     "benefit3": "Privacy first. Your data stays on your device",
-    "cta": "Coming Soon"
+    "cta": "Download on the App Store",
+    "ctaUrl": "https://apps.apple.com/us/app/tazza-caffeine-tracker/id6759761408"
   }
 }
