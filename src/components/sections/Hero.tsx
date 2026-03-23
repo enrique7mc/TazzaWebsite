@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { Trans, useTranslation } from 'react-i18next';
-import { Heading, Text, SerifItalic, Button } from '../ui';
+import { Heading, Text, SerifItalic, LinkButton } from '../ui';
 import { AccentDot } from '../ui';
 import { MockupFrame } from '../ui';
 import styles from './Hero.module.css';
@@ -28,9 +28,9 @@ export function Hero() {
           </Text>
 
           <div className={styles.cta}>
-            <Button size="lg" disabled>
+            <LinkButton size="lg" href={t('hero.ctaUrl')} external>
               {t('hero.cta')}
-            </Button>
+            </LinkButton>
           </div>
         </motion.div>
 
